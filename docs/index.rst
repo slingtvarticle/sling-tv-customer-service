@@ -6,11 +6,11 @@ How Do I Contact Sling TV Customer Service for Help?
    :caption: Contents:
 Need help with Sling TV? Learn how to reach Sling TV customer service, what support they offer, and how to solve common streaming or account issues. 
  
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://slingcustomer.support/support.html
 
 Sling TV is a popular streaming service offering live TV, sports, movies, and on-demand content without the high cost of traditional cable. But like any digital service, occasional issues may arise—whether with billing, account access, device compatibility, or streaming quality. When that happens, knowing how to contact Sling TV customer service can make a big difference. This guide explains how to get in touch with support, what help is available, and answers some common questions along the way.
 
